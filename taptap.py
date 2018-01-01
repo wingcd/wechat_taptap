@@ -11,9 +11,9 @@ imgfilename = "./screenshot.jpg"
 width = 0
 height = 0
 #新模块顶点的偏移位置
-offset = [4,5]
+offset = [3,5]
 #与距离相乘的经验参数
-magicnumber = 5.15 #for 1920*1080
+magicnumber = 5.496 #for 1920*1080
 #裁剪范围
 clipSale = [0.171875, 0.11458]
 clip = [0,0]
