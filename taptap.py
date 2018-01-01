@@ -13,7 +13,7 @@ height = 0
 #新模块顶点的偏移位置
 offset = [3,5]
 #与距离相乘的经验参数
-magicnumber = 5.496 #for 1920*1080
+magicnumber = 5.523 #for 1920*1080
 #裁剪范围
 clipSale = [0.171875, 0.11458]
 clip = [0,0]
@@ -180,7 +180,7 @@ def run():
         swipe(duration)
 
         draw(x0,y0, x1, y1)
-        time.sleep(2)
+        time.sleep(1)
 
 def debug():
     init()
