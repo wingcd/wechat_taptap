@@ -11,7 +11,8 @@
 4. 允许脚本taptap.py
 
 ##展示
-(https://github.com/wingcd/wechat_taptap/blob/master/screenshot.jpg)
-(https://github.com/wingcd/wechat_taptap/blob/master/saveimg.jpg)
+
+![](https://github.com/wingcd/wechat_taptap/blob/master/screenshot.jpg)
+![](https://github.com/wingcd/wechat_taptap/blob/master/saveimg.jpg)
 
 
