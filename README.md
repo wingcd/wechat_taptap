@@ -10,6 +10,8 @@
 3. 开启开发者选项后，必须要勾选允许模拟点击
 4. 允许脚本taptap.py
 
-##展示(https://github.com/wingcd/wechat_taptap/blob/master/screenshot.jpg)(https://github.com/wingcd/wechat_taptap/blob/master/saveimg.jpg)
+##展示
+(https://github.com/wingcd/wechat_taptap/blob/master/screenshot.jpg)
+(https://github.com/wingcd/wechat_taptap/blob/master/saveimg.jpg)
 
 
